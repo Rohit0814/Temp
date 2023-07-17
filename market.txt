@@ -1,2 +1,7 @@
-B2B
-B2C
+<Html>
+<head>
+</head>
+<body>
+<h1>Market.......</h1>
+</body>
+</html>
